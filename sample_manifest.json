@@ -1,0 +1,29 @@
+[
+  {
+    "user_id": "967179",
+    "recording_id": "825780",
+    "rec_url_gcp": "https://storage.googleapis.com/upload_goai/967179/825780.wav",
+    "transcription_url": "https://storage.googleapis.com/upload_goai/967179/825780_transcription.json",
+    "metadata_url": "https://storage.googleapis.com/upload_goai/967179/825780_metadata.json",
+    "duration": 8.5,
+    "language": "hi"
+  },
+  {
+    "user_id": "967180",
+    "recording_id": "825781",
+    "rec_url_gcp": "https://storage.googleapis.com/upload_goai/967180/825781.wav",
+    "transcription_url": "https://storage.googleapis.com/upload_goai/967180/825781_transcription.json",
+    "metadata_url": "https://storage.googleapis.com/upload_goai/967180/825781_metadata.json",
+    "duration": 10.2,
+    "language": "hi"
+  },
+  {
+    "user_id": "967181",
+    "recording_id": "825782",
+    "rec_url_gcp": "https://storage.googleapis.com/upload_goai/967181/825782.wav",
+    "transcription_url": "https://storage.googleapis.com/upload_goai/967181/825782_transcription.json",
+    "metadata_url": "https://storage.googleapis.com/upload_goai/967181/825782_metadata.json",
+    "duration": 9.1,
+    "language": "hi"
+  }
+]

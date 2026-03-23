@@ -1,0 +1,8 @@
+transformers>=4.36
+datasets>=2.14
+evaluate>=0.4
+torch>=2.0
+librosa
+soundfile
+accelerate
+requests
