@@ -1,2 +1,2 @@
 # josh_talks_solution
-Whisper fine-tuning for Hindi ASR
+Whisper fine-tuning for Hindi ASR.
